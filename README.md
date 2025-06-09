@@ -41,7 +41,7 @@ Check out my portfolio or my repositories for a showcase of my latest and favori
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rudraprashadshil3338/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?logo=react&style=for-the-badge)](https://rudra01-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge)](https://rudra01-portfolio.netlify.app/)
 
 ---
 

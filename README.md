@@ -1,5 +1,3 @@
-# readme
-
 # Hi there, I'm Rudra Prashad Shil 👋
 
 Welcome to my GitHub profile!  
